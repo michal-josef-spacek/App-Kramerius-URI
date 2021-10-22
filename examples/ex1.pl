@@ -14,4 +14,4 @@ use App::Kramerius::URI;
 exit App::Kramerius::URI->new->run;
 
 # Output like:
-# TODO
+# http://kramerius.mzk.cz/ 4
