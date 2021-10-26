@@ -19,8 +19,8 @@ name 'App-Kramerius-URI';
 perl_version 5.006;
 readme_from 'bin/kramerius-uri';
 recursive_author_tests('xt');
+requires 'Data::Kramerius' => 0;
 requires 'Getopt::Std' => 0;
-requires 'Text::DSV' => 0;
 resources 'bugtracker' => 'https://github.com/michal-josef-spacek/App-Kramerius-URI/issues',
 resources 'homepage' => 'https://github.com/michal-josef-spacek/App-Kramerius-URI';
 resources 'repository' => 'git://github.com/michal-josef-spacek/App-Kramerius-URI';

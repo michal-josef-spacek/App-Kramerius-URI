@@ -23,8 +23,8 @@ no_index:
     - t
     - xt
 requires:
+  Data::Kramerius: 0
   Getopt::Std: 0
-  Text::DSV: 0
   perl: 5.6.0
 resources:
   bugtracker: https://github.com/michal-josef-spacek/App-Kramerius-URI/issues
