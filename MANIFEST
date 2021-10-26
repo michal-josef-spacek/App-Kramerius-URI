@@ -21,6 +21,8 @@ README
 SIGNATURE
 t/App-Kramerius-URI/01-use.t
 t/App-Kramerius-URI/02-version.t
+t/App-Kramerius-URI/03-new.t
+t/App-Kramerius-URI/04-run.t
 URI.pm
 xt/App-Kramerius-URI/01-pod_coverage.t
 xt/App-Kramerius-URI/02-pod.t
