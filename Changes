@@ -1,4 +1,5 @@
 0.03
+ - Add missing test dependency.
 
 0.02 2021-10-26T13:58:56+02:00
  - Add basic tests.
