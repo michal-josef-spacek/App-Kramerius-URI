@@ -5,7 +5,7 @@ SYNOPSIS
      kramerius-uri [-h] [-v] [--version] kramerius_id
 
 DESCRIPTION
-    Script which get URI and versioon for Kramerius system defined by id.
+    Script which get URI and version for Kramerius system defined by id.
 
 ARGUMENTS
     *       "-h"

@@ -33,7 +33,7 @@ kramerius-uri - Script to get Kramerius URI.
 
 =head1 DESCRIPTION
 
-Script which get URI and versioon for Kramerius system defined by id.
+Script which get URI and version for Kramerius system defined by id.
 
 =head1 ARGUMENTS
 
